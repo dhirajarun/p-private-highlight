@@ -1,5 +1,7 @@
 Run `npm run start`
 
+[private-highlight-plugin.js](./private-highlight-plugin.js)
+
 ## The Problem
 
 The `relativePositionToAbsolutePosition` of `y-prosemirror` stops working when the prosemirror node is split before the position.
